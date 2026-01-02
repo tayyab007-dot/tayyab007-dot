@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 CS Student @ 5th Semester<br><br>Web Developer by day, OS Explorer by night.<br><br>Tech Stack: Laravel | PHP | Bash | JavaScript | C++ | MERN<br><br>Currently focused on refining my DSA skills, Web development and contributing to research in the AI space. Check out my repositories to see my latest projects!
+👨‍💻 CS Student @ 5th Semester<br><br>Web Developer by day, OS Explorer by night.<br><br>Tech Stack: Laravel | PHP | Bash | JavaScript | C++ | MERN<br><br>Currently focused on refining my DSA skills, Web development and contributing to research in the AI space. Check out my repositories to see my latest projects.
 
 
 ## 🌐 Socials:
@@ -15,13 +15,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=tayyab007-dot&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username= tayyab007-dot&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user= tayyab007-dot&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username= tayyab007-dot&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id= tayyab007-dot&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
